@@ -12,3 +12,6 @@ This repository contains leetcode problem solutions with javascript.
 
 3. [Test Function Example](./solutions/0003-test-function.js) - Easy
     - A simple test function: exception input and true or error throwing output.
+
+4. [Counter](./solutions/0004-counter.js) - Easy
+    - A function createCounter. Which accepts an initial integer init. Then it returns an object with three functions.
