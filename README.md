@@ -18,3 +18,6 @@ This repository contains leetcode problem solutions with javascript.
 
 5. [Array Transform](./solutions/0005-array-transform.js) - Easy
     - Given an integer array arr and a mapping function fn, return a new array with a transformation applied to each element. The returned array should be created such that returnedArray[i] = fn(arr[i], i).
+
+6. [Array Filter](./solutions/0006-array-filter.js) - Easy
+    - Given an integer array arr and a filtering function fn, return a filtered array filteredArr.
